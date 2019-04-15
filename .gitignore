@@ -1,0 +1,7 @@
+doc/
+modules-default/target/
+modules-backend/target/
+modules-default/.apt_generated
+modules-backend/.apt_generated
+!.gitkeep
+/bin/
